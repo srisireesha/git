@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 def index(): 
 
-    return 'Welcome to Python Flask World v2-art' 
+    return 'Welcome to Python Flask World v1-art' 
 
 if __name__ == '__main__': 
 
